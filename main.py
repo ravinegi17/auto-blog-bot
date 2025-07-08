@@ -1,4 +1,4 @@
-from topic_fetcher import get_trending_topic
+from trend_fetcher import get_trending_topic
 from gpt_blog_generator import generate_blog_post
 from image_generator import generate_blog_image
 from wp_poster import post_to_wordpress
